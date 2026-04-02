@@ -31,6 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/viennalte/proprietary/vendor/bin/rmt_storage:$(TARGET_COPY_OUT_VENDOR)/bin/rmt_storage \
     vendor/samsung/viennalte/proprietary/vendor/bin/thermal-engine:$(TARGET_COPY_OUT_VENDOR)/bin/thermal-engine \
     vendor/samsung/viennalte/proprietary/vendor/bin/time_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/time_daemon \
+    vendor/samsung/viennalte/proprietary/vendor/bin/macloader:$(TARGET_COPY_OUT_VENDOR)/bin/macloader \
     vendor/samsung/viennalte/proprietary/vendor/cameradata/datapattern_420sp.yuv:$(TARGET_COPY_OUT_VENDOR)/cameradata/datapattern_420sp.yuv \
     vendor/samsung/viennalte/proprietary/vendor/cameradata/datapattern_front_420sp.yuv:$(TARGET_COPY_OUT_VENDOR)/cameradata/datapattern_front_420sp.yuv \
     vendor/samsung/viennalte/proprietary/vendor/etc/acdbdata/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Bluetooth_cal.acdb \
@@ -101,6 +102,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/viennalte/proprietary/vendor/lib/libarcsoft_night_shot_ex.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_night_shot_ex.so \
     vendor/samsung/viennalte/proprietary/vendor/lib/libarcsoft_nighthawk.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_nighthawk.so \
     vendor/samsung/viennalte/proprietary/vendor/lib/libarcsoft_panorama_burstcapture.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_panorama_burstcapture.so \
+     vendor/samsung/viennalte/proprietary/vendor/lib/libsecnativefeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsecnativefeature.so \
     vendor/samsung/viennalte/proprietary/vendor/lib/libarcsoft_picaction.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_picaction.so \
     vendor/samsung/viennalte/proprietary/vendor/lib/libarcsoft_picaction_manual.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_picaction_manual.so \
     vendor/samsung/viennalte/proprietary/vendor/lib/libarcsoft_selfie_camera_lite.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_selfie_camera_lite.so \
